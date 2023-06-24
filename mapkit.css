@@ -1,0 +1,24 @@
+.xwrap {
+  max-width: 1300px;
+  display: block;
+  margin: 5rem auto !important;
+}
+.mainBtns {
+  max-width: 300px;
+}
+.author-link {
+  color: #000;
+  text-decoration: none;
+  font-size: 14px;
+}
+.list-cmp {
+  color: #b7b7a5;
+  line-height: 26px;
+  font-size: 16px;
+}
+.ll-uri {
+  opacity: 0.6;
+}
+.ll-uri:hover {
+  opacity: 1;
+}
