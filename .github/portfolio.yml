@@ -1,0 +1,34 @@
+featured: true
+
+title:
+  fa: "MapKit"
+  en: "MapKit"
+
+description:
+  fa: "یک کیت PHP برای توسعه قابلیت‌های نقشه و موقعیت مکانی در وردپرس، با توابع داینامیک و پشتیبانی از رابط کاربری راست‌به‌چپ."
+  en: "A PHP toolkit for developing map and location-based features in WordPress, with dynamic functions and RTL user interface support."
+
+banner: "https://raw.githubusercontent.com/farid-teymouri/mapkit/main/semantic-ui/semantic.rtl.min.css"
+
+preview: null
+
+skills:
+  - name: "WordPress"
+    icon:
+      light: "skill-icons:wordpress"
+      dark: "skill-icons:wordpress"
+
+  - name: "PHP"
+    icon:
+      light: "skill-icons:php-light"
+      dark: "skill-icons:php-dark"
+
+  - name: "JavaScript"
+    icon:
+      light: "skill-icons:javascript"
+      dark: "skill-icons:javascript"
+
+  - name: "GitHub"
+    icon:
+      light: "skill-icons:github-light"
+      dark: "skill-icons:github-dark"
