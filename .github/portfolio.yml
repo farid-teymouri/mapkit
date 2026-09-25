@@ -8,7 +8,7 @@ description:
   fa: "یک کیت PHP برای توسعه قابلیت‌های نقشه و موقعیت مکانی در وردپرس، با توابع داینامیک و پشتیبانی از رابط کاربری راست‌به‌چپ."
   en: "A PHP toolkit for developing map and location-based features in WordPress, with dynamic functions and RTL user interface support."
 
-banner: "https://raw.githubusercontent.com/farid-teymouri/mapkit/main/semantic-ui/semantic.rtl.min.css"
+banner: null
 
 preview: null
 
